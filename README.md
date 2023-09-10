@@ -1,5 +1,7 @@
 # YachtCruise_UE5.2
 
+Демо-ролик с управляемой техникой, настройкой цвета яхты и т д: https://youtu.be/zLd5679jCFs
+
 <table>
     BP_BoatBase - управляемый катер Jetski. Ссылка на Блюпринт: https://blueprintue.com/render/oahadxjv/
 </table>
