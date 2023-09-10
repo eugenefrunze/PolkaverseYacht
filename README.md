@@ -5,7 +5,7 @@
 
 Практически полностью перемоделенная мной модель яхты в Blender с анимациями и скриптами: https://drive.google.com/drive/folders/1R4ovGoZvGB5K3M7IXLOiAUsXeGL7kLcW?usp=sharing
 
-Онлайн-версии некоторых созданных мной блюпринтов для проекта:
+Онлайн-версии некоторых созданных мной блюпринтов для проекта (без учета блюпринтов структур, типов и т. д.):
 <table>
     BP_BoatBase - управляемый катер Jetski. Ссылка на Блюпринт: https://blueprintue.com/render/oahadxjv/
 </table>
