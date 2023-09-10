@@ -2,6 +2,7 @@
 
 Ресурсы, созданные мной находятся в директории Content/Miloslavsky/
 Демо-ролик с управляемой техникой, настройкой цвета яхты и т д: https://www.youtube.com/watch?v=zLd5679jCFs&ab_channel=miloslavsky
+Исходная модель яхты в Blender с анимациями и скриптами: https://drive.google.com/drive/folders/1R4ovGoZvGB5K3M7IXLOiAUsXeGL7kLcW?usp=sharing
 
 Примеры созданных мной для проекта блюпринтов:
 <table>
