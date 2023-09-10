@@ -1,6 +1,6 @@
 # YachtCruise_UE5.2
 
-Демо-ролик с управляемой техникой, настройкой цвета яхты и т д: https://youtu.be/zLd5679jCFs [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zLd5679jCFs&ab_channel=miloslavsky/0.jpg)](https://www.youtube.com/watch?v=zLd5679jCFs&ab_channel=miloslavsky)
+Демо-ролик с управляемой техникой, настройкой цвета яхты и т д: [<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=zLd5679jCFs&ab_channel=miloslavsky "Now in Android: 55")
 
 <table>
     BP_BoatBase - управляемый катер Jetski. Ссылка на Блюпринт: https://blueprintue.com/render/oahadxjv/
