@@ -1,7 +1,9 @@
 # YachtCruise_UE5.2
 
+Ресурсы, созданные мной находятся в директории Content/Miloslavsky/
 Демо-ролик с управляемой техникой, настройкой цвета яхты и т д: https://www.youtube.com/watch?v=zLd5679jCFs&ab_channel=miloslavsky
 
+Примеры созданных мной для проекта блюпринтов:
 <table>
     BP_BoatBase - управляемый катер Jetski. Ссылка на Блюпринт: https://blueprintue.com/render/oahadxjv/
 </table>
